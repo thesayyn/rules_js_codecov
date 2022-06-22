@@ -1,0 +1,22 @@
+lockfileVersion: 5.3
+
+specifiers:
+  '@types/node': ^18.0.0
+  commander: ^9.3.0
+
+dependencies:
+  commander: 9.3.0
+
+devDependencies:
+  '@types/node': 18.0.0
+
+packages:
+
+  /@types/node/18.0.0:
+    resolution: {integrity: sha512-cHlGmko4gWLVI27cGJntjs/Sj8th9aYwplmZFwmmgYQQvL5NUsgVJG7OddLvNfLqYS31KFN0s3qlaD9qCaxACA==}
+    dev: true
+
+  /commander/9.3.0:
+    resolution: {integrity: sha512-hv95iU5uXPbK83mjrJKuZyFM/LBAoCV/XhVGkS5Je6tl7sxr6A0ITMw5WoRV46/UaJ46Nllm3Xt7IaJhXTIkzw==}
+    engines: {node: ^12.20.0 || >=14}
+    dev: false

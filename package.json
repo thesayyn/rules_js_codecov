@@ -1,0 +1,17 @@
+{
+    "name": "rules_js_codecov",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/thesayyn/rules_js_codecov.git"
+    },
+    "bugs": {
+      "url": "https://github.com/thesayyn/rules_js_codecov/issues"
+    },
+    "homepage": "https://github.com/thesayyn/rules_js_codecov#readme",
+    "dependencies": {
+      "commander": "^9.3.0"
+    },
+    "devDependencies": {
+      "@types/node": "^18.0.0"
+    }
+}

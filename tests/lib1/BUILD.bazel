@@ -1,0 +1,9 @@
+load("@aspect_rules_js//js:defs.bzl", "js_test")
+
+js_test(
+    name = "lib1",
+    data = [
+        "lib1.js"
+    ],
+    entry_point = "test.js",
+)
